@@ -70,7 +70,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
         echo "<script>
                 alert('Appointment Booked Successfully.');
-                window.location.href='index.php';
+                window.location.href='index.html';
               </script>";
 
     }else{
