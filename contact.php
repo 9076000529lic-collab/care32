@@ -70,7 +70,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     {
         echo "<script>
                 alert('Thank You! Your Message has been sent.');
-                window.location='index.php';
+                window.location='index.html';
               </script>";
     }
     else
